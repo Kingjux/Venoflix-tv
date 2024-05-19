@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://venoflix-vercel.app">
-    <img alt="mikiflix" src="venoflix-logo.svg" width="150">
+    <img alt="venoflix" src="venoflix-logo.svg" width="150">
   </a>
 </p>
 
